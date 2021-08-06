@@ -1,6 +1,6 @@
 # Weather APP https://weather-app-cr.netlify.app/
 
-![image](https://user-images.githubusercontent.com/30164447/128456908-9698ded5-3ed1-40c5-9c15-da3e94a39cb5.png)
+![image](https://user-images.githubusercontent.com/30164447/128457039-8a5936bc-15e5-4691-b6fb-41dd8dc95c84.png)
 
 
 ## Available Scripts
